@@ -83,4 +83,3 @@ These milestones define the key stages of user engagement and project maturity w
 *   **Next Step (Typical Flow):** To understand how this vision translates into specific features and their development status, proceed to **[`02_Core_Components_Features_And_Checklist.md`](./02_Core_Components_Features_And_Checklist.md)**. This is especially relevant during **Initial Planning** and **Strategy** phases.
 *   For insights into development methodologies that will bring this vision to life, consult **[`03_Methodology_And_Guidelines.md`](./03_Methodology_And_Guidelines.md)**.
 *   To return to the main project map and re-orient based on current project phase, refer back to **[`00_ROADMAP_OVERVIEW.md`](./00_ROADMAP_OVERVIEW.md)**.
-*   Remember to adopt the persona and directives of the next file you enter.

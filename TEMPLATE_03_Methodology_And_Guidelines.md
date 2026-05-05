@@ -174,4 +174,3 @@ These directives outline the guiding principles for the development process, ens
     *   During **Execution** and **Cleanup** phases, ensure testing strategies and quality guidelines from this document are being applied to work tracked in **[`04_Project_Status_And_Priorities.md`](./04_Project_Status_And_Priorities.md)**.
 *   To see the current work items, track known issues, or understand development priorities that are guided by these methodologies, proceed to **[`04_Project_Status_And_Priorities.md`](./04_Project_Status_And_Priorities.md)**.
 *   To return to the main project map, refer back to **[`00_ROADMAP_OVERVIEW.md`](./00_ROADMAP_OVERVIEW.md)**.
-*   Remember to adopt the persona and directives of the next file you enter.

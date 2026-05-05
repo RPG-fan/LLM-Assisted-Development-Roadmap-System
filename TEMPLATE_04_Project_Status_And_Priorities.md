@@ -108,4 +108,3 @@ You are now focused on the **Project Status, Work Items, Known Issues, and Prior
     *   When planning how to tackle items in "Next items to work on," or addressing "Known Issues," consult methodologies in **[`03_Methodology_And_Guidelines.md`](./03_Methodology_And_Guidelines.md)**.
     *   If issues or upcoming tasks involve performance, refer to **[`05_Technical_Details_And_Performance.md`](./05_Technical_Details_And_Performance.md)**.
 *   To return to the main project map and re-orient, refer back to **[`00_ROADMAP_OVERVIEW.md`](./00_ROADMAP_OVERVIEW.md)**.
-*   Remember to adopt the persona and directives of the next file you enter.
