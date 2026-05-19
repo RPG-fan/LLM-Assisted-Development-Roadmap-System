@@ -84,6 +84,7 @@ This roadmap is split into multiple parts to ensure clarity, manageability, and 
 *   For initial planning: Start with `01_Project_Concept_And_Vision.md` to align with vision, then go to `02_Core_Components_Features_And_Checklist.md` to define mechanics.
 *   When a specific task is initiated, proceed to the relevant file(s) listed above, considering the "Current Project Phase" for relevance.
 *   **Transition Protocol:** Upon opening any linked roadmap file, your first action is to read and internalize the "System Prompt" and "Core Directives" at the beginning of that file. This will define your persona and operational focus for that specific context.
+*   **Navigation Return Protocol:** When your tasks within any specific roadmap file are complete, or when you need to re-orient across multiple domains, always return to this `00_ROADMAP_OVERVIEW.md` file as your main project map.
 *   If the Current Project Phase changes, revisit this Overview to reassess file relevance.
 *   If uncertain about the starting point for a general query, consult the "LLM Role Hint" and "Phase Relevance" for each file to determine the most appropriate entry point. For very broad or navigational queries, remain in this Overview context.
 *   General Guidance:
