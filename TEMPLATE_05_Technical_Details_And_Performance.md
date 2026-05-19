@@ -114,4 +114,3 @@ These metrics define the target performance goals for the project on target plat
 *   **Typical Next Steps:**
     *   During **Strategy** or **Execution**, when designing or implementing features from **[`02_Core_Components_Features_And_Checklist.md`](./02_Core_Components_Features_And_Checklist.md)**, use this document to ensure performance targets are considered.
     *   When performance-related "Known Issues" are being addressed from **[`04_Project_Status_And_Priorities.md`](./04_Project_Status_And_Priorities.md)**, this document provides the benchmarks and architectural context for solutions.
-*   To return to the main project map and re-orient, refer back to **[`00_ROADMAP_OVERVIEW.md`](./00_ROADMAP_OVERVIEW.md)**.

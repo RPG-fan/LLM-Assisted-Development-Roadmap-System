@@ -123,4 +123,3 @@ Understanding the dependencies between components is crucial for planning develo
     *   During **Initial Planning** or **Strategy** phases, to understand *how* these features will be developed, proceed to **[`03_Methodology_And_Guidelines.md`](./03_Methodology_And_Guidelines.md)**.
     *   During **Execution** or **Cleanup** phases, to see the current implementation status, active tasks, and known issues related to these systems, consult **[`04_Project_Status_And_Priorities.md`](./04_Project_Status_And_Priorities.md)**.
 *   For specific technical implementation details on performance-critical components mentioned here, refer to **[`05_Technical_Details_And_Performance.md`](./05_Technical_Details_And_Performance.md)**.
-*   To return to the main project map and re-orient, refer back to **[`00_ROADMAP_OVERVIEW.md`](./00_ROADMAP_OVERVIEW.md)**.
