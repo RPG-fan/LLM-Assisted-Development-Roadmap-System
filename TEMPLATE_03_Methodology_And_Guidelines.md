@@ -164,12 +164,3 @@ These directives outline the guiding principles for the development process, ens
 -   **Advanced Process Enhancements:**
     -   **Procedural Content Generation / Data-Driven Design:** [ ] Not Started (Aim to define content in easily editable data files (e.g., JSON, YAML, CSV) rather than hardcoding).
 
----
-
-**LLM Exit Instructions (from Methodology & Guidelines):**
-
-*   You have reviewed the project's development methodologies, planning guidelines, risk management, and testing strategies. This defines *how* the team operates.
-*   **Typical Next Steps:**
-    *   When planning new features or sprints, use the "Development Planning Scratchpad" here in conjunction with feature details from **[`02_Core_Components_Features_And_Checklist.md`](./02_Core_Components_Features_And_Checklist.md)** and current priorities from **[`04_Project_Status_And_Priorities.md`](./04_Project_Status_And_Priorities.md)**.
-    *   During **Execution** and **Cleanup** phases, ensure testing strategies and quality guidelines from this document are being applied to work tracked in **[`04_Project_Status_And_Priorities.md`](./04_Project_Status_And_Priorities.md)**.
-*   To see the current work items, track known issues, or understand development priorities that are guided by these methodologies, proceed to **[`04_Project_Status_And_Priorities.md`](./04_Project_Status_And_Priorities.md)**.

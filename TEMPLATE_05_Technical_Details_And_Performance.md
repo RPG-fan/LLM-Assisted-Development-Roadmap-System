@@ -105,12 +105,3 @@ These metrics define the target performance goals for the project on target plat
         *   **Concept:** Use an in-memory data store like Redis or Memcached to cache frequently accessed, non-volatile data.
         *   **Benefits:** Drastically reduces database load and improves API response times for common read operations.
 
----
-
-**LLM Exit Instructions (from Technical Details & Performance):**
-
-*   You have reviewed the specific performance goals and technical architecture details. This is the bedrock of the project's technical execution.
-*   This information is crucial when evaluating the feasibility of new features (from `02_Core_Components_Features_And_Checklist.md`) or planning implementation strategies (as per `03_Methodology_And_Guidelines.md`).
-*   **Typical Next Steps:**
-    *   During **Strategy** or **Execution**, when designing or implementing features from **[`02_Core_Components_Features_And_Checklist.md`](./02_Core_Components_Features_And_Checklist.md)**, use this document to ensure performance targets are considered.
-    *   When performance-related "Known Issues" are being addressed from **[`04_Project_Status_And_Priorities.md`](./04_Project_Status_And_Priorities.md)**, this document provides the benchmarks and architectural context for solutions.
