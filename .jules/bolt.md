@@ -1,3 +1,6 @@
 ## 2024-05-05 - LLM Prompt Context Optimization
 **Learning:** In prompt engineering for an LLM-assisted development framework, the repetitive phrase "Remember to adopt the persona and directives of the next file you enter." at the bottom of every template file unnecessarily wastes tokens and distracts from core content. Removing this from 5 distinct files significantly reduces duplicate context without losing operational continuity because the `Transition Protocol` in `00_ROADMAP_OVERVIEW.md` already enforces this behavior.
 **Action:** Always identify and deduplicate repetitive transitional boilerplate when designing multi-file LLM context to optimize token usage and context clarity.
+## 2024-05-26 - Token Optimization via Centralized Navigation
+**Learning:** We can significantly reduce token consumption in multi-file Markdown prompt architectures by eliminating duplicated instructions across files. In this repository, the "Navigation Return Protocol" in `TEMPLATE_00_ROADMAP_OVERVIEW.md` already effectively instructs the LLM to return to the root file. Adding specific "LLM Exit Instructions" at the end of every other template file is redundant and wastes context window.
+**Action:** Always favor centralizing system prompts and navigation logic into a primary entry point rather than duplicating instructions in sub-documents.

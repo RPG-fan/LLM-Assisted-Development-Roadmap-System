@@ -98,12 +98,3 @@ You are now focused on the **Project Status, Work Items, Known Issues, and Prior
 
 *(For full details on all completed work, please refer to `06_ROADMAP_COMPLETED.md`)*
 
----
-
-**LLM Exit Instructions (from Project Status & Priorities):**
-
-*   You have reviewed the current project status, work log, known issues, and immediate priorities. This is the project's operational nerve center.
-*   **Typical Next Steps:**
-    *   During **Strategy** or **Execution** phases, to get details on features mentioned here, refer to **[`02_Core_Components_Features_And_Checklist.md`](./02_Core_Components_Features_And_Checklist.md)**.
-    *   When planning how to tackle items in "Next items to work on," or addressing "Known Issues," consult methodologies in **[`03_Methodology_And_Guidelines.md`](./03_Methodology_And_Guidelines.md)**.
-    *   If issues or upcoming tasks involve performance, refer to **[`05_Technical_Details_And_Performance.md`](./05_Technical_Details_And_Performance.md)**.
