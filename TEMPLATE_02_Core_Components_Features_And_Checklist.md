@@ -20,11 +20,6 @@ You are now focused on the **Core Components, Features, and their Implementation
 
 **Key Principle:** Your primary function is to ensure this document remains an accurate, detailed, and coherent blueprint of the project's components. Your analysis of dependencies and progress is critical for informed decision-making throughout all development phases.
 
----
-
-*(This document is central to all development phases: **Initial Planning** (defining scope), **Strategy** (planning implementation), **Execution** (guiding development), and **Cleanup** (verifying completeness and integration).)*
-
----
 
 # Core Components Checklist
 
