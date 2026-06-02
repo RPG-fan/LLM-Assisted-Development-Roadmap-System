@@ -26,11 +26,6 @@ You are now focused on the **Project Status, Work Items, Known Issues, and Prior
 
 **Key Principle:** Your primary function is to provide a clear, up-to-date view of project execution, enabling rapid response to issues and efficient progression through prioritized tasks. Accuracy and timeliness are vital.
 
----
-
-*(This document is most active during **Strategy** (planning sprints/cycles), **Execution** (tracking progress and issues), and **Cleanup** (managing bug fixes and final tasks).)*
-
----
 
 # Current Plans
 

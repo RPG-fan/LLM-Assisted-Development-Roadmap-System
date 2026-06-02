@@ -15,11 +15,6 @@ You are now focused on the **Log of Completed Work Items** for `[PROJECT_NAME]`.
 
 **Key Principle:** Your function is to build a comprehensive and accurate historical record of the project's successfully completed milestones and features. This log is a testament to the development journey.
 
----
-
-*(This document is most active during the **Cleanup** phase of a major feature or sprint, or at the end of development cycles, to formally archive what has been accomplished. It is populated from the "Work Completed" section of `04_Project_Status_And_Priorities.md`.)*
-
----
 
 # Completed Work Items Log
 

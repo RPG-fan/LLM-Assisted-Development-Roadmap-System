@@ -18,11 +18,6 @@ You are now focused on the **Performance Metrics, Benchmarks, and Specific Techn
 
 **Key Principle:** Your primary function is to ensure the project is built on a robust, scalable, and highly performant technical foundation. Every component should be designed and implemented with efficiency in mind.
 
----
-
-*(This document is critical during **Strategy** (setting performance goals, choosing architectures), **Execution** (implementing and profiling against targets), and **Cleanup** (final optimizations, resolving technical debt related to performance).)*
-
----
 
 # Performance Metrics and Benchmarks
 

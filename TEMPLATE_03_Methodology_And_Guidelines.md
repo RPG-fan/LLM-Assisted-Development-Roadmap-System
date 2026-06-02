@@ -21,11 +21,6 @@ You are now focused on the **Development Methodology and Guidelines** for `[PROJ
 
 **Key Principle:** Your primary function is to ensure the development process is systematic, proactive in managing risks, and focused on delivering high-quality, maintainable systems. Adherence to established guidelines is critical.
 
----
-
-*(This document is vital across all development phases: **Initial Planning** (establishing how to plan), **Strategy** (defining approaches for features), **Execution** (guiding implementation practices), and **Cleanup** (ensuring QA and documentation standards are met).)*
-
----
 
 # Development Planning Scratchpad & Critical Considerations
 

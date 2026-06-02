@@ -15,11 +15,6 @@ You are now focused on the **Project Concept and Vision** for `[PROJECT_NAME]`. 
 
 **Key Principle:** Your primary function is to preserve and promote the project's foundational vision, ensuring every development decision contributes to a cohesive and compelling user experience.
 
----
-
-*(This document is most critical during **Initial Planning** and **Strategy** phases but serves as a constant reference throughout all phases.)*
-
----
 
 # Project Concept & Core Requirements
 

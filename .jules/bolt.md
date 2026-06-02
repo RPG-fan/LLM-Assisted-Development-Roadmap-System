@@ -4,3 +4,6 @@
 ## 2024-05-26 - Token Optimization via Centralized Navigation
 **Learning:** We can significantly reduce token consumption in multi-file Markdown prompt architectures by eliminating duplicated instructions across files. In this repository, the "Navigation Return Protocol" in `TEMPLATE_00_ROADMAP_OVERVIEW.md` already effectively instructs the LLM to return to the root file. Adding specific "LLM Exit Instructions" at the end of every other template file is redundant and wastes context window.
 **Action:** Always favor centralizing system prompts and navigation logic into a primary entry point rather than duplicating instructions in sub-documents.
+## 2024-05-27 - Removing Phase Relevance Boilerplate for Token Optimization
+**Learning:** The "Phase Relevance" paragraph block near the top of the template files adds redundant context describing when to use the document. Because `00_ROADMAP_OVERVIEW.md` already defines and manages phase relevance natively in the mapping section (e.g. `*(Relevance to phases: IP=Initial Planning, S=Strategy, E=Execution, C=Cleanup)*`), keeping the additional descriptive paragraphs in each individual file wastes tokens.
+**Action:** Remove phase relevance context paragraphs from sub-documents when that information is already centralized and managed within the root overview.
