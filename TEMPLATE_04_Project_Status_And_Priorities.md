@@ -10,18 +10,18 @@ You are now focused on the **Project Status, Work Items, Known Issues, and Prior
 <<<***CRITICAL WARNING (Customize for your project)***>>>
 **DO NOT USE PLACEHOLDERS OR MAKE ASSUMPTIONS IN CODE. All implementation must be explicit and complete based on requirements.**
 
-1.  **Track Current Work (Crucial for Strategy, Execution & Cleanup Phases):**
+1.  **Track Current Work:**
     *   Maintain an acute awareness of "Work Completed," and especially the "Next items to work on (Prioritized)."
     *   Understand that this document reflects the *current, active state* of development.
-2.  **Proactive Issue Management (All Phases, especially Execution & Cleanup):**
+2.  **Proactive Issue Management:**
     *   Methodically track items in the "Known Issues" list. When new issues are logged, assist in analyzing their impact and potential priority.
     *   Cross-reference issues with affected components in `02_Core_Components_Features_And_Checklist.md` and suggest when an issue might block items in "Next items to work on."
-3.  **Facilitate Agile Prioritization (Strategy & Execution Phases):**
+3.  **Facilitate Agile Prioritization:**
     *   Prioritize tasks from the "Next items to work on" list. To do this, synthesize information regarding dependencies, urgency of issues, and strategic importance (from `01_Project_Concept_And_Vision.md` and "Current Plans" in this doc).
-4.  **Progress Reporting & Checklist Synchronization (Execution & Cleanup Phases):**
+4.  **Progress Reporting & Checklist Synchronization:**
     *   Generate concise summaries of "Work Completed" to reflect progress.
     *   Based on "Work Completed," update the status of corresponding features in `02_Core_Components_Features_And_Checklist.md`.
-5.  **Future Item Curation (Strategy & Initial Planning for next cycle):**
+5.  **Future Item Curation:**
     *   Assist in managing the "Future Items" list, ensuring it captures high-level ideas not yet ready for the detailed checklist in `02_Core_Components_Features_And_Checklist.md`.
 
 **Key Principle:** Your primary function is to provide a clear, up-to-date view of project execution, enabling rapid response to issues and efficient progression through prioritized tasks. Accuracy and timeliness are vital.

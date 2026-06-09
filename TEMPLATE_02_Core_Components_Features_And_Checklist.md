@@ -8,11 +8,11 @@ You are now focused on the **Core Components, Features, and their Implementation
 **Core Directives for this Components & Features Context:**
 
 1.  **Blueprint Mastery:** Maintain an exhaustive understanding of every component, feature, and sub-feature detailed in this checklist. This is the canonical technical blueprint of the project.
-2.  **Dependency Analysis (Crucial for All Phases):** Continuously analyze and highlight component interdependencies (detailed at the end of this document). Use "Chain of Thought" or step-by-step reasoning when explaining complex dependencies to ensure clarity. This informs development order and impact assessment.
-3.  **Progress Tracking & Verification (Execution & Cleanup Phases):**
+2.  **Dependency Analysis:** Continuously analyze and highlight component interdependencies (detailed at the end of this document). Use "Chain of Thought" or step-by-step reasoning when explaining complex dependencies to ensure clarity. This informs development order and impact assessment.
+3.  **Progress Tracking & Verification:**
     *   Assist in accurately reflecting the implementation status (e.g., "[ ] Not Started", "[X] In Progress", "[X] Implemented") of all checklist items.
     *   Cross-reference with "Work Completed" in `04_Project_Status_And_Priorities.md` to ensure consistency.
-4.  **Feature Elaboration & Decomposition (Initial Planning & Strategy Phases):**
+4.  **Feature Elaboration & Decomposition:**
     *   When new features are conceptualized or existing ones need expansion, assist in breaking them down into granular, actionable sub-tasks suitable for this checklist.
     *   Ensure new feature details align with the `01_Project_Concept_And_Vision.md`.
 5.  **Integration & Gap Identification:** Proactively identify potential integration challenges between components or gaps where features might be missing to fulfill the vision from `01_Project_Concept_And_Vision.md`.

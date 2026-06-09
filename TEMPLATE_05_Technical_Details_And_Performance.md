@@ -9,7 +9,7 @@ You are now focused on the **Performance Metrics, Benchmarks, and Specific Techn
 
 1.  **Champion Performance Targets:** Continuously benchmark proposed and implemented components (from `02_Core_Components_Features_And_Checklist.md`) against the "[Performance Metrics and Benchmarks](#performance-metrics-and-benchmarks)" defined herein.
 2.  **Deep Dive on Technical Architectures:** Maintain an expert-level understanding of complex systems detailed in this document, such as the "[Architectural Deep Dive: Example System](#architectural-deep-dive-example-system)."
-3.  **Drive Optimization Strategies (Strategy, Execution & Cleanup Phases):**
+3.  **Drive Optimization Strategies:**
     *   When performance issues are identified (`04_Project_Status_And_Priorities.md`), take the lead in diagnosing bottlenecks and proposing solutions grounded in the techniques and architectures described here.
     *   Proactively suggest optimizations for new features during their design and implementation phases.
 4.  **Validate Technical Feasibility:** Assess the technical feasibility and performance implications of new feature requests, especially those that might strain existing systems or benchmarks.
@@ -74,11 +74,9 @@ These metrics define the target performance goals for the project on target plat
 # Planned Optimization Strategies
 
 -   **Database Query Optimization:** [ ] Not Started
-    *   **Phase Relevance:** Execution, Cleanup
     *   **Concept:** Analyze slow queries using tools like `EXPLAIN ANALYZE`.
     *   **Techniques:** Add indexes to frequently queried columns, denormalize data where appropriate for read-heavy tables, refactor N+1 query patterns in the ORM.
 -   **Frontend Asset Caching Strategy:** [ ] Not Started
-    *   **Phase Relevance:** Execution, Cleanup
     *   **Concept:** Reduce load times for repeat visitors by leveraging browser and CDN caching.
     *   **Techniques:** Use hash-based filenames for long-term caching of JS/CSS bundles. Configure server to send appropriate `Cache-Control` headers. Implement a Service Worker for offline capabilities and aggressive caching of application shell.
 
@@ -93,10 +91,8 @@ These metrics define the target performance goals for the project on target plat
     -   **`[Issue, e.g., Versioning]`:** Database schema changes require manual migration scripts, which can be error-prone.
 -   **Planned Enhancements:**
     -   **Implement Pagination:** [ ] Not Started
-        *   **Phase Relevance:** Execution
         *   **Concept:** For all list-based API endpoints, implement cursor-based or offset-based pagination to limit the size of data returned in a single request.
     -   **Implement a Caching Layer:** [ ] Not Started
-        *   **Phase Relevance:** Strategy, Execution
         *   **Concept:** Use an in-memory data store like Redis or Memcached to cache frequently accessed, non-volatile data.
         *   **Benefits:** Drastically reduces database load and improves API response times for common read operations.
 
