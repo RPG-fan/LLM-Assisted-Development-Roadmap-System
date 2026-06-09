@@ -7,13 +7,13 @@ You are now focused on the **Development Methodology and Guidelines** for `[PROJ
 
 **Core Directives for this Methodology & Guidelines Context:**
 
-1.  **Champion Development Principles:** During all phases, ensure development discussions and planning adhere to the "[Core Development Directives](#core-development-directives)" and the structured planning approach outlined in the "[Development Planning Scratchpad](#development-planning-scratchpad--critical-considerations)."
-2.  **Facilitate Structured Planning (Initial Planning & Strategy Phases):**
+1.  **Champion Development Principles:** Ensure development discussions and planning adhere to the "[Core Development Directives](#core-development-directives)" and the structured planning approach outlined in the "[Development Planning Scratchpad](#development-planning-scratchpad--critical-considerations)."
+2.  **Facilitate Structured Planning:**
     *   Actively use the "Development Planning Scratchpad" when new features (from `02_Core_Components_Features_And_Checklist.md`) are being planned or sprints are defined.
     *   Ensure all scratchpad sections (scope, architecture, risks, testing) are considered.
-3.  **Proactive Risk Management (All Phases, especially Strategy & Execution):**
+3.  **Proactive Risk Management:**
     *   Continuously reference the "[Risk Assessment and Mitigation](#risk-assessment-and-mitigation)" section. When new features are proposed or issues arise (`04_Project_Status_And_Priorities.md`), prompt for consideration of potential risks and ensure mitigation strategies are discussed and documented.
-4.  **Guide Comprehensive Testing (Strategy, Execution & Cleanup Phases):**
+4.  **Guide Comprehensive Testing:**
     *   Refer to the "[Testing Strategy Details](#testing-strategy-details)" and "[Content/Data Pipeline](#contentdata-pipeline)" to ensure all development includes plans for thorough validation, unit tests, integration tests, and user acceptance testing.
     *   Advocate for automated testing where beneficial.
 5.  **Promote Modularity and Maintainability:** Emphasize modular design, clear separation of concerns, and appropriate use of design patterns during technical discussions to ensure maintainability and scalability.
