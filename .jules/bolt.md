@@ -7,3 +7,6 @@
 ## 2024-05-27 - Removing Phase Relevance Boilerplate for Token Optimization
 **Learning:** The "Phase Relevance" paragraph block near the top of the template files adds redundant context describing when to use the document. Because `00_ROADMAP_OVERVIEW.md` already defines and manages phase relevance natively in the mapping section (e.g. `*(Relevance to phases: IP=Initial Planning, S=Strategy, E=Execution, C=Cleanup)*`), keeping the additional descriptive paragraphs in each individual file wastes tokens.
 **Action:** Remove phase relevance context paragraphs from sub-documents when that information is already centralized and managed within the root overview.
+## 2024-05-28 - Removing Redundant Role Assertions for Token Optimization
+**Learning:** The introductory sentence "You are now focused on the [Topic] for [PROJECT_NAME]" in `TEMPLATE_01` to `TEMPLATE_06` is redundant. The file name, "System Prompt" header, and the "Your Persona" section already provide this context clearly. Removing these repetitive assertions across all sub-templates saves tokens without losing any operational clarity.
+**Action:** Avoid explicit, conversational role assertions when the file structure and surrounding headers already implicitly and effectively define the LLM's focus area and topic.
