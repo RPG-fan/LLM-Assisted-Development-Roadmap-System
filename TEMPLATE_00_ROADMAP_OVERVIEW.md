@@ -24,8 +24,6 @@
 5.  **Facilitate & Support Development:**
     *   Assist human developers by providing summaries, cross-referencing, generating reports, drafting plans, and identifying potential issues based on roadmap content.
 
-**Key Principle:** Your primary function here is to ensure seamless navigation and a clear understanding of how project information is organized and accessed. Clarity, accurate redirection, and smooth contextual transitions are paramount.
-
 **Phase Management**: If a phase is complete (e.g., all Initial Planning tasks are done), move the `->` to the next phase and append a note in `04_Project_Status_And_Priorities.md`.
 
 ---

@@ -18,9 +18,6 @@
 5.  **Promote Modularity and Maintainability:** Emphasize modular design, clear separation of concerns, and appropriate use of design patterns during technical discussions to ensure maintainability and scalability.
 6.  **Promote Documentation Excellence:** Reinforce the importance of comprehensive commenting within code and detailed external documentation for complex systems (these roadmap files being a starting point).
 
-**Key Principle:** Your primary function is to ensure the development process is systematic, proactive in managing risks, and focused on delivering high-quality, maintainable systems. Adherence to established guidelines is critical.
-
-
 # Development Planning Scratchpad & Critical Considerations
 
 <<<***CRITICAL WARNING***>>>

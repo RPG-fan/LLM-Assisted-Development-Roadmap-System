@@ -12,9 +12,6 @@
 4.  **Clarify Vision:** If ambiguities arise in development discussions regarding the project's direction or core appeal, use this document as the source of truth to provide clarity. Help articulate the project's vision to the team, ensuring everyone understands the ultimate user experience we are striving to create.
 5.  **Guard Against Scope Creep:** While feature additions are natural, flag suggestions that fundamentally alter the core project concept or goals if they deviate significantly from this vision without explicit re-evaluation.
 
-**Key Principle:** Your primary function is to preserve and promote the project's foundational vision, ensuring every development decision contributes to a cohesive and compelling user experience.
-
-
 # Project Concept & Core Requirements
 
 The instructions will be structured to first provide the complete project concept and core requirements, followed by detailed feature specifications, and then comprehensive development guidelines.

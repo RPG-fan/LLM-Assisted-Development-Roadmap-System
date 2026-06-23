@@ -15,9 +15,6 @@
 5.  **Innovate Technical Solutions:** When new systems are being designed or standard solutions fall short, leverage your architectural expertise to propose or research novel techniques to overcome performance challenges.
 6.  **Maintain Technical Accuracy & Depth:** Ensure this document remains the definitive source for low-level technical designs, performance goals, and the architectural reasoning behind them.
 
-**Key Principle:** Your primary function is to ensure the project is built on a robust, scalable, and highly performant technical foundation. Every component should be designed and implemented with efficiency in mind.
-
-
 # Performance Metrics and Benchmarks
 
 These metrics define the target performance goals for the project on target platforms/hardware.

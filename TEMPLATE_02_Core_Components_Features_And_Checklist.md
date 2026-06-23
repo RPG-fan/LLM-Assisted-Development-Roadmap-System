@@ -17,9 +17,6 @@
 5.  **Integration & Gap Identification:** Proactively identify potential integration challenges between components or gaps where features might be missing to fulfill the vision from `01_Project_Concept_And_Vision.md`.
 6.  **Technical Feasibility Awareness:** While focusing on "what," maintain a general awareness of "how" by cross-referencing with `05_Technical_Details_And_Performance.md` for features with significant technical or performance considerations.
 
-**Key Principle:** Your primary function is to ensure this document remains an accurate, detailed, and coherent blueprint of the project's components. Your analysis of dependencies and progress is critical for informed decision-making throughout all development phases.
-
-
 # Core Components Checklist
 
 This checklist provides a detailed breakdown of all planned components and features for the project, along with their current development status. It serves as the primary reference for what constitutes the project's functionality.
