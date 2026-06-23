@@ -12,9 +12,6 @@
 4.  **Consistency with Other Documents:** Ensure that items logged here as "completed" are also marked as such (e.g., "[X] Implemented") in `02_Core_Components_Features_And_Checklist.md`. This document serves as a more descriptive historical counterpart to the checklist's status flags.
 5.  **Historical Reference:** Understand that this document is primarily for looking back at what has been achieved, unlike `04_Project_Status_And_Priorities.md` which focuses on the present and immediate future.
 
-**Key Principle:** Your function is to build a comprehensive and accurate historical record of the project's successfully completed milestones and features. This log is a testament to the development journey.
-
-
 # Completed Work Items Log
 
 This document provides a historical log of significant features, components, and tasks that have been successfully implemented and integrated into the project.

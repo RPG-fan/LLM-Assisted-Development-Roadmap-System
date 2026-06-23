@@ -10,3 +10,6 @@
 ## 2024-05-28 - Removing Redundant Role Assertions for Token Optimization
 **Learning:** The introductory sentence "You are now focused on the [Topic] for [PROJECT_NAME]" in `TEMPLATE_01` to `TEMPLATE_06` is redundant. The file name, "System Prompt" header, and the "Your Persona" section already provide this context clearly. Removing these repetitive assertions across all sub-templates saves tokens without losing any operational clarity.
 **Action:** Avoid explicit, conversational role assertions when the file structure and surrounding headers already implicitly and effectively define the LLM's focus area and topic.
+## 2024-11-20 - Removing Redundant Principle Summaries for Token Optimization
+**Learning:** The "**Key Principle:**" paragraph at the end of the preamble in each template file (`TEMPLATE_00` to `TEMPLATE_06`) acts as a repetitive summary of the already established "**Your Persona:**" and "**Core Directives:**" sections. Removing this redundant block across all files reduces token usage and improves prompt efficiency without sacrificing clarity.
+**Action:** Eliminate redundant summary blocks that restate instructions already explicitly defined in preceding sections to optimize LLM token usage.

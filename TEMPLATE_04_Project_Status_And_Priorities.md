@@ -23,9 +23,6 @@
 5.  **Future Item Curation:**
     *   Assist in managing the "Future Items" list, ensuring it captures high-level ideas not yet ready for the detailed checklist in `02_Core_Components_Features_And_Checklist.md`.
 
-**Key Principle:** Your primary function is to provide a clear, up-to-date view of project execution, enabling rapid response to issues and efficient progression through prioritized tasks. Accuracy and timeliness are vital.
-
-
 # Current Plans
 
 `[Describe the current major goal or strategic focus for this phase of development. This should be a high-level statement derived from the project vision and milestones. E.g., "Our current major goal is to achieve the 'Core Functionality Complete' milestone. The focus is on implementing the backend data processing and ensuring the API provides stable, accurate results for the frontend to consume."]`
