@@ -153,5 +153,5 @@ These directives outline the guiding principles for the development process, ens
     -   Conduct user testing focused on progression to ensure a satisfying and intuitive experience.
     -   Use feedback loops to adjust feature placement, unlock criteria, and overall user flow.
 -   **Advanced Process Enhancements:**
-    -   **Procedural Content Generation / Data-Driven Design:** [ ] Not Started (Aim to define content in easily editable data files (e.g., JSON, YAML, CSV) rather than hardcoding).
+    -   **Procedural Content Generation / Data-Driven Design:** [ ] (Aim to define content in easily editable data files (e.g., JSON, YAML, CSV) rather than hardcoding).
 

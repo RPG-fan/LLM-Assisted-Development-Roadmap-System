@@ -9,7 +9,7 @@
 1.  **Blueprint Mastery:** Maintain an exhaustive understanding of every component, feature, and sub-feature detailed in this checklist. This is the canonical technical blueprint of the project.
 2.  **Dependency Analysis:** Continuously analyze and highlight component interdependencies (detailed at the end of this document). Use "Chain of Thought" or step-by-step reasoning when explaining complex dependencies to ensure clarity. This informs development order and impact assessment.
 3.  **Progress Tracking & Verification:**
-    *   Assist in accurately reflecting the implementation status (e.g., "[ ] Not Started", "[X] In Progress", "[X] Implemented") of all checklist items.
+    *   Assist in accurately reflecting the implementation status (e.g., "[ ]", "[-] In Progress", "[X] Implemented") of all checklist items.
     *   Cross-reference with "Work Completed" in `04_Project_Status_And_Priorities.md` to ensure consistency.
 4.  **Feature Elaboration & Decomposition:**
     *   When new features are conceptualized or existing ones need expansion, assist in breaking them down into granular, actionable sub-tasks suitable for this checklist.
@@ -26,63 +26,63 @@ This checklist provides a detailed breakdown of all planned components and featu
 
 ---
 
-## **`[Component 1 Name, e.g., User Authentication System]`:** [ ] Not Started
+## **`[Component 1 Name, e.g., User Authentication System]`:** [ ]
 *   **Relevant files/modules:**
     *   `src/auth/`
     *   `src/models/user.js`
     *   `src/controllers/authController.js`
 *   **Sub-Systems & Features:**
-    *   **User Registration:** [ ] Not Started
+    *   **User Registration:** [ ]
         *   [ ] Email/Password Registration Endpoint
         *   [ ] Input Validation (e.g., strong password)
         *   [ ] Email Verification Flow
-    *   **User Login:** [ ] Not Started
+    *   **User Login:** [ ]
         *   [ ] Email/Password Login Endpoint
         *   [ ] JWT/Session Token Generation
-    *   **Password Management:** [ ] Not Started
+    *   **Password Management:** [ ]
         *   [ ] "Forgot Password" Flow
         *   [ ] Secure Password Reset
-    *   **Third-Party Authentication (OAuth):** [ ] Not Started
+    *   **Third-Party Authentication (OAuth):** [ ]
         *   [ ] Google Login Integration
         *   [ ] GitHub Login Integration
 
 ---
 
-## **`[Component 2 Name, e.g., Data Processing Engine]`:** [ ] Not Started
+## **`[Component 2 Name, e.g., Data Processing Engine]`:** [ ]
 *   **Relevant files/modules:**
     *   `src/processing/`
     *   `src/workers/`
 *   **Sub-Systems & Features:**
-    *   **Data Ingestion:** [ ] Not Started
+    *   **Data Ingestion:** [ ]
         *   [ ] CSV File Upload Handler
         *   [ ] API Endpoint for Data Submission
-    *   **Data Validation & Cleaning:** [ ] Not Started
+    *   **Data Validation & Cleaning:** [ ]
         *   [ ] Schema Validation
         *   [ ] Null/Empty Value Handling
-    *   **Core Calculation Logic:** [ ] Not Started
+    *   **Core Calculation Logic:** [ ]
         *   [ ] `[Calculation A, e.g., Calculate Sales Growth]`
         *   [ ] `[Calculation B, e.g., Aggregate Regional Data]`
-    *   **Asynchronous Job Queue:** [ ] Not Started
+    *   **Asynchronous Job Queue:** [ ]
         *   [ ] Integration with RabbitMQ/Redis
         *   [ ] Worker Process for Long-Running Jobs
 
 ---
 
-## **`[Component 3 Name, e.g., Frontend Dashboard & UI]`:** [ ] Not Started
+## **`[Component 3 Name, e.g., Frontend Dashboard & UI]`:** [ ]
 *   **Relevant files/modules:**
     *   `ui/src/components/`
     *   `ui/src/views/`
 *   **Sub-Systems & Features:**
-    *   **Main Dashboard View:** [ ] Not Started
+    *   **Main Dashboard View:** [ ]
         *   [ ] Component for `[Chart A, e.g., Sales Trend Line Chart]`
         *   [ ] Component for `[Metric B, e.g., Key Performance Indicators (KPIs)]`
-    *   **Data Management Panel:** [ ] Not Started
+    *   **Data Management Panel:** [ ]
         *   [ ] Table View of Uploaded Datasets
         *   [ ] "Upload New File" Modal
-    *   **User Settings Page:** [ ] Not Started
+    *   **User Settings Page:** [ ]
         *   [ ] Profile Information Form
         *   [ ] "Change Password" Form
-    *   **State Management:** [ ] Not Started
+    *   **State Management:** [ ]
         *   [ ] Redux/Vuex/Zustand Store Setup
         *   [ ] API Service for Data Fetching
 
