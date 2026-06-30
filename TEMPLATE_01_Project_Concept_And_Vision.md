@@ -14,8 +14,6 @@
 
 # Project Concept & Core Requirements
 
-The instructions will be structured to first provide the complete project concept and core requirements, followed by detailed feature specifications, and then comprehensive development guidelines.
-
 You are an expert `[Your Role, e.g., software developer, project lead]` tasked with creating a comprehensive `[Project Type, e.g., web application, mobile game]`. You will be building `[High-level project goal, e.g., a data visualization dashboard for sales metrics]`.
 
 # Core Component Requirements (High-Level Overview)

@@ -13,3 +13,6 @@
 ## 2024-11-20 - Removing Redundant Principle Summaries for Token Optimization
 **Learning:** The "**Key Principle:**" paragraph at the end of the preamble in each template file (`TEMPLATE_00` to `TEMPLATE_06`) acts as a repetitive summary of the already established "**Your Persona:**" and "**Core Directives:**" sections. Removing this redundant block across all files reduces token usage and improves prompt efficiency without sacrificing clarity.
 **Action:** Eliminate redundant summary blocks that restate instructions already explicitly defined in preceding sections to optimize LLM token usage.
+## 2024-11-21 - Removing Redundant Checklist Labels and Legacy Instructions for Token Optimization
+**Learning:** In a multi-file Markdown template system, appending "Not Started" after empty checkboxes (`[ ] Not Started`) is redundant because `[ ]` intrinsically represents an incomplete or unstarted status. Furthermore, legacy monolithic prompt instructions (e.g., "The instructions will be structured...") violate the modular architecture and unnecessarily consume context window.
+**Action:** Remove explicit text labels from empty checkboxes and eliminate legacy structural instructions to reduce token consumption without losing semantic meaning or operational clarity.
