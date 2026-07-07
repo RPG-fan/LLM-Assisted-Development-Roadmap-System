@@ -16,3 +16,6 @@
 ## 2024-11-21 - Removing Redundant Checklist Labels and Legacy Instructions for Token Optimization
 **Learning:** In a multi-file Markdown template system, appending "Not Started" after empty checkboxes (`[ ] Not Started`) is redundant because `[ ]` intrinsically represents an incomplete or unstarted status. Furthermore, legacy monolithic prompt instructions (e.g., "The instructions will be structured...") violate the modular architecture and unnecessarily consume context window.
 **Action:** Remove explicit text labels from empty checkboxes and eliminate legacy structural instructions to reduce token consumption without losing semantic meaning or operational clarity.
+## 2024-11-22 - Replacing Explicit Status Lines with Native Checkboxes
+**Learning:** Using explicit, verbose text lines like `- *Status:* Not Started` to track state in Markdown templates wastes LLM token space when standard Markdown functionality inherently supports it. Replacing them with simple, native Markdown checkboxes (`- [ ]`) implicitly denotes the "Not Started" state and reduces unnecessary tokens while maintaining semantic meaning.
+**Action:** When tracking tasks or lists in LLM context files, favor native Markdown checkbox structures (`- [ ]`, `- [x]`) over verbose explicit status strings to optimize the context window.
