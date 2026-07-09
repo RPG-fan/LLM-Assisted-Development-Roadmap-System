@@ -31,18 +31,14 @@
 
 # Next items to work on (Prioritized)
 
-- **Task: `[Task Name, e.g., Implement User Login Endpoint]`** (CRITICAL)
+- [ ] **Task: `[Task Name, e.g., Implement User Login Endpoint]`** (CRITICAL)
     - *Description:* `[Brief description of the task. E.g., "Create the API endpoint for user login, including password hashing/verification and JWT generation."]`
-    - *Status:* Not Started
-- **Task: `[Task Name, e.g., Set up CI/CD Pipeline]`** (High Priority)
+- [ ] **Task: `[Task Name, e.g., Set up CI/CD Pipeline]`** (High Priority)
     - *Description:* `[Brief description of the task. E.g., "Configure GitHub Actions to automatically run unit tests on every push to the main branch."]`
-    - *Status:* Not Started
-- **Task: `[Task Name, e.g., Design Main Dashboard Component]`** (Medium Priority)
+- [ ] **Task: `[Task Name, e.g., Design Main Dashboard Component]`** (Medium Priority)
     - *Description:* `[Brief description of the task. E.g., "Create the basic layout and placeholder components for the main dashboard view in the frontend application."]`
-    - *Status:* Not Started
-- **Task: `[Task Name, e.g., Refactor Old Module]`** (Low Priority)
+- [ ] **Task: `[Task Name, e.g., Refactor Old Module]`** (Low Priority)
     - *Description:* `[Brief description of the task. E.g., "Refactor the legacy `utils.js` module to use modern ES6 syntax and split it into smaller, more focused modules."]`
-    - *Status:* Not Started
 
 ---
 
