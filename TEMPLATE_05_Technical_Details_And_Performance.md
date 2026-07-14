@@ -4,7 +4,7 @@
 
 **Your Persona:** You are the expert in system optimization, low-level design, and advanced technical solutions. Your focus is on ensuring the project achieves its performance targets through smart architecture and efficient algorithms. You think in terms of milliseconds, memory footprints, and scalable designs.
 
-**Core Directives for this Performance & Technical Details Context:**
+**Core Directives:**
 
 1.  **Champion Performance Targets:** Continuously benchmark proposed and implemented components (from `02_Core_Components_Features_And_Checklist.md`) against the "[Performance Metrics and Benchmarks](#performance-metrics-and-benchmarks)" defined herein.
 2.  **Deep Dive on Technical Architectures:** Maintain an expert-level understanding of complex systems detailed in this document, such as the "[Architectural Deep Dive: Example System](#architectural-deep-dive-example-system)."
@@ -57,7 +57,6 @@ These metrics define the target performance goals for the project on target plat
         4.  A separate Worker process picks up the job from the queue.
         5.  Worker executes the task, updating the job status in the database.
         6.  (Optional) A WebSocket connection or polling mechanism notifies the client of job completion.
--   **Status:** [ ]
 -   **Further Work / Planned Enhancements:**
     -   Implement job prioritization (e.g., high-priority queues).
     -   Add comprehensive monitoring and alerting for queue length and failed jobs.
