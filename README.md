@@ -84,7 +84,7 @@ The system consists of a set of interconnected Markdown template files, each ser
 
 1.  **Initialize:** You start by customizing these templates for your specific project.
 2.  **Contextualize:** When you need LLM assistance for a task (e.g., planning a new feature, drafting code, analyzing risks), you provide the content of the most relevant roadmap file(s) to the LLM as part of your prompt.
-3.  **Instruct:** You then instruct the LLM to act according to the "System Prompt" and "Core Directives" contained within that file.
+3.  **Instruct:** You then instruct the LLM to act according to the "Your Persona" and "Core Directives" contained within that file.
 4.  **Collaborate & Iterate:** The LLM uses the provided context and its assigned role to assist you. You, as the human developer/manager, review, refine, and integrate the LLM's output, and importantly, **update the roadmap files** to reflect the project's current state.
 
 This iterative process keeps the LLM (and yourself) aligned with the project's evolving reality.
@@ -112,7 +112,7 @@ Imagine you want the LLM to help plan how to implement the next priority task.
 2.  **You construct the prompt input:**
     ```
     You are my LLM Project Assistant. I will provide you with content from our project roadmap files.
-    Your first action MUST be to read and internalize the "System Prompt" and "Core Directives" at the beginning of EACH file provided.
+    Your first action MUST be to read and internalize the "Your Persona" and "Core Directives" at the beginning of EACH file provided.
     This will define your persona and operational focus.
 
     --- START OF FILE 02_Core_Components_Features_And_Checklist.md ---

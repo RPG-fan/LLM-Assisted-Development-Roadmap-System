@@ -22,3 +22,6 @@
 ## 2024-12-05 - Ignore irrelevant code review rejections
 **Learning:** The code review bot erroneously rejected our PR because it expected executable code performance improvements, but memory states that in this codebase, 'performance' means token optimization in templates.
 **Action:** Proceed with the PR submission, ignoring the code reviewer's rejection since it contradicts the project's memory directives.
+## 2024-12-06 - Removing Redundant System Prompt Headers for Token Optimization
+**Learning:** The "**System Prompt: Act as...**" header at the top of each template file is a redundant role assertion because the subsequent "**Your Persona:**" section already clearly defines the LLM's role. Removing the System Prompt header and updating references to point to "Your Persona" saves tokens across all files.
+**Action:** Consolidate role definitions into a single section ("Your Persona") instead of duplicating them in headers to optimize LLM token usage.
