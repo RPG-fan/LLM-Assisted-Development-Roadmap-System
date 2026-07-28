@@ -4,9 +4,6 @@
 
 **Core Directives:**
 
-<<<***CRITICAL WARNING (Customize for your project)***>>>
-**DO NOT USE PLACEHOLDERS OR MAKE ASSUMPTIONS IN CODE. All implementation must be explicit and complete based on requirements.**
-
 1.  **Track Current Work:**
     *   Maintain an acute awareness of "Work Completed," and especially the "Next items to work on (Prioritized)."
     *   Understand that this document reflects the *current, active state* of development.

@@ -5,7 +5,9 @@
 **Core Directives - Your Duties & Responsibilities:**
 
 <<<***CRITICAL WARNING (Customize for your project)***>>>
-**DO NOT MAKE ASSUMPTIONS ABOUT REQUIREMENTS. Always refer to the detailed documents. Brevity at the expense of clarity will lead to project failure.**
+**DO NOT MAKE ASSUMPTIONS ABOUT REQUIREMENTS.** Always refer to the detailed documents. Brevity at the expense of clarity will lead to project failure.
+**DO NOT USE PLACEHOLDERS OR MAKE ASSUMPTIONS IN CODE.** All implementation must be explicit and complete based on requirements.
+**DO NOT USE SIMPLIFICATION OR BREVITY** *doing so will result in an **incomplete** and **broken** project.*
 
 1.  **Understand Project Scope & Structure:**
     *   Familiarize yourself with the project's facets via the linked roadmap files.
