@@ -25,3 +25,7 @@
 ## 2024-12-06 - Removing Redundant System Prompt Headers for Token Optimization
 **Learning:** The "**System Prompt: Act as...**" header at the top of each template file is a redundant role assertion because the subsequent "**Your Persona:**" section already clearly defines the LLM's role. Removing the System Prompt header and updating references to point to "Your Persona" saves tokens across all files.
 **Action:** Consolidate role definitions into a single section ("Your Persona") instead of duplicating them in headers to optimize LLM token usage.
+
+## 2024-12-07 - Consolidating Critical Warnings for Token Optimization
+**Learning:** In a multi-file Markdown template system, duplicating critical warnings across multiple files wastes LLM token space. Centralizing these warnings in the root overview file (`TEMPLATE_00_ROADMAP_OVERVIEW.md`) ensures they are loaded early and reduces unnecessary repetition.
+**Action:** Always consolidate repeated system warnings into the primary entry point document.
