@@ -17,11 +17,6 @@
 
 # Core Components Checklist
 
-This checklist provides a detailed breakdown of all planned components and features for the project, along with their current development status. It serves as the primary reference for what constitutes the project's functionality.
-
-*(Refer to `01_Project_Concept_And_Vision.md` for the high-level vision driving these components.)*
-*(Refer to `04_Project_Status_And_Priorities.md` for current work items and known issues related to these components.)*
-
 ---
 
 ## **`[Component 1 Name, e.g., User Authentication System]`:** [ ]

@@ -91,8 +91,6 @@ These directives outline the guiding principles for the development process, ens
 
 # Risk Assessment and Mitigation
 
-*(Refer to specific risks also noted in `05_Technical_Details_And_Performance.md` for technical systems)*
-
 -   **`[Technical Risk 1, e.g., Database Performance at Scale]`:**
     -   **Risk:** `[Describe the risk, e.g., Slow query times with large datasets.]`
     -   **Mitigation:** `[Describe mitigation strategy, e.g., Implement proper indexing, use a connection pool, optimize complex queries, and consider caching layers.]`
@@ -132,8 +130,6 @@ These directives outline the guiding principles for the development process, ens
 ---
 
 # Content/Data Pipeline
-
-*(This section outlines the process for creating and integrating project content or data. Specific details are in `02_Core_Components_Features_And_Checklist.md`)*
 
 -   **`[Data Type 1, e.g., User Configuration Balancing]`:**
     -   Establish a spreadsheet or database for all configurable options.

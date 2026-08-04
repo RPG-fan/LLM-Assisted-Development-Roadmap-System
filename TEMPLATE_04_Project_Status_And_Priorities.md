@@ -78,5 +78,3 @@
 
 - **`[Completed Task Name, e.g., Setup Project Boilerplate]`:** `[Brief summary of what was done. E.g., "Initialized Node.js backend and React frontend projects with basic folder structures, linting, and dependencies."]`
 
-*(For full details on all completed work, please refer to `06_ROADMAP_COMPLETED.md`)*
-

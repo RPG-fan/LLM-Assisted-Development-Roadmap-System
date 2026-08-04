@@ -17,8 +17,6 @@
 
 These metrics define the target performance goals for the project on target platforms/hardware.
 
-*(These benchmarks should be regularly tested as per the "Performance Testing" section in `03_Methodology_And_Guidelines.md`)*
-
 -   **API Response Times:**
     -   Average response time for common GET requests: **< 100ms**
     -   95th percentile (p95) response time for all endpoints: **< 500ms**
