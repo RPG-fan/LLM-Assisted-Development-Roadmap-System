@@ -25,8 +25,6 @@ Your implementation should include the following core components, which form the
 *   **`[Core Component 5, e.g., API for Third-Party Integration]`:** `[A brief, one-sentence description of its purpose.]`
 *   *(...add as many core components as needed.)*
 
-*(Detailed checklists and implementation status for these components are found in `02_Core_Components_Features_And_Checklist.md`)*
-
 # Key Success Milestones
 
 These milestones define the key stages of user engagement and project maturity we aim to achieve:

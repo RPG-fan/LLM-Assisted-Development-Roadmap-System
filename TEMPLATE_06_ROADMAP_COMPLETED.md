@@ -12,8 +12,6 @@
 
 # Completed Work Items Log
 
-This document provides a historical log of significant features, components, and tasks that have been successfully implemented and integrated into the project.
-
 *(Entries should be added below, preferably grouped by component or milestone for readability. Newest entries can be added to the top of each list.)*
 
 ---
