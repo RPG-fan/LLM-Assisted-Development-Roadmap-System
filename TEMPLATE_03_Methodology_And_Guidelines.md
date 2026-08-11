@@ -6,10 +6,10 @@
 
 1.  **Champion Development Principles:** Ensure development discussions and planning adhere to the "[Core Development Directives](#core-development-directives)" and the structured planning approach outlined in the "[Development Planning Scratchpad](#development-planning-scratchpad--critical-considerations)."
 2.  **Facilitate Structured Planning:**
-    *   Actively use the "Development Planning Scratchpad" when new features (from `02_Core_Components_Features_And_Checklist.md`) are being planned or sprints are defined.
+    *   Actively use the "Development Planning Scratchpad" when new features are being planned or sprints are defined.
     *   Ensure all scratchpad sections (scope, architecture, risks, testing) are considered.
 3.  **Proactive Risk Management:**
-    *   Continuously reference the "[Risk Assessment and Mitigation](#risk-assessment-and-mitigation)" section. When new features are proposed or issues arise (`04_Project_Status_And_Priorities.md`), prompt for consideration of potential risks and ensure mitigation strategies are discussed and documented.
+    *   Continuously reference the "[Risk Assessment and Mitigation](#risk-assessment-and-mitigation)" section. When new features are proposed or issues arise, prompt for consideration of potential risks and ensure mitigation strategies are discussed and documented.
 4.  **Guide Comprehensive Testing:**
     *   Refer to the "[Testing Strategy Details](#testing-strategy-details)" and "[Content/Data Pipeline](#contentdata-pipeline)" to ensure all development includes plans for thorough validation, unit tests, integration tests, and user acceptance testing.
     *   Advocate for automated testing where beneficial.
@@ -23,13 +23,13 @@ Before you begin coding any significant feature or component, use the scratchpad
 ```Scratchpad
 **Project Overview & Scope**
 - Core features to implement in this session/sprint
-- Dependencies and prerequisites (refer to `02_Core_Components_Features_And_Checklist.md`)
+- Dependencies and prerequisites
 - Estimated complexity and time investment
 
 **System Architecture Analysis**
 - High-level system components and their relationships
 - Data flow patterns and state management approach
-- Performance considerations and bottlenecks (refer to `05_Technical_Details_And_Performance.md`)
+- Performance considerations and bottlenecks
 - Integration points with existing systems
 
 **Technical Design Decisions**
@@ -61,13 +61,13 @@ Before you begin coding any significant feature or component, use the scratchpad
 - Unresolved technical decisions
 - Areas requiring further investigation
 - External dependencies to verify
-- Performance benchmarks to establish (refer to `05_Technical_Details_And_Performance.md`)
+- Performance benchmarks to establish
 
 **Success Criteria & Validation**
-- Functional requirements to verify (derived from `02_Core_Components_Features_And_Checklist.md`)
-- Performance metrics to achieve (from `05_Technical_Details_And_Performance.md`)
+- Functional requirements to verify
+- Performance metrics to achieve
 - Integration tests to pass
-- User experience goals to meet (from `01_Project_Concept_And_Vision.md`)
+- User experience goals to meet
 
 **Next Immediate Actions**
 - Prioritized list of concrete next steps
@@ -83,8 +83,8 @@ These directives outline the guiding principles for the development process, ens
 
 -   **Modular Design & Separation of Concerns**: Structure the code with clear separation of concerns, using appropriate design patterns. This ensures maintainability, testability, and flexibility for future expansions.
 -   **Comprehensive Commenting & Documentation**: All new and modified systems should include comprehensive commenting. Detailed design documents and API references are needed for complex systems to ensure clarity and ease of understanding for all team members. *(This set of roadmap files is the starting point for such documentation).*
--   **Incremental Development & Thorough Testing**: Implement the project incrementally, starting with core foundational components, then progressively adding more complex systems in order of dependency (see `02_Core_Components_Features_And_Checklist.md` for dependencies). Each component must be thoroughly tested before moving to the next to ensure stability.
--   **RECORD ALL PROGRESS AND PLANS IN THE APPROPRIATE ROADMAP FILES.** *(e.g., progress in `02_Core_Components_Features_And_Checklist.md`, detailed plans/status in `04_Project_Status_And_Priorities.md`)*
+-   **Incremental Development & Thorough Testing**: Implement the project incrementally, starting with core foundational components, then progressively adding more complex systems in order of dependency. Each component must be thoroughly tested before moving to the next to ensure stability.
+-   **RECORD ALL PROGRESS AND PLANS IN THE APPROPRIATE ROADMAP FILES.**
 -   **Initial Development Strategy**: Begin with the foundational systems (e.g., database schema, auth system), then implement core business logic, followed by the user interface. Ensure each layer is tested before moving to the next.
 
 ---
@@ -102,7 +102,7 @@ These directives outline the guiding principles for the development process, ens
     -   **Mitigation:** `[Describe mitigation strategy, e.g., Develop clear content design documents, establish iterative balancing methodologies, and create admin tools to streamline content creation and validation.]`
 -   **`[Project Risk 2, e.g., Scope Creep & Feature Bloat]`:**
     -   **Risk:** `[Describe the risk, e.g., Continuously adding features without completing core systems, leading to an unstable or unfocused product.]`
-    -   **Mitigation:** `[Describe mitigation strategy, e.g., Adhere to prioritized features in '04_Project_Status_And_Priorities.md'. Evaluate new feature requests against '01_Project_Concept_And_Vision.md' and overall project timelines.]`
+    -   **Mitigation:** `[Describe mitigation strategy, e.g., Adhere to prioritized features. Evaluate new feature requests against core concept and vision and overall project timelines.]`
 -   **`[Project Risk 3, e.g., LLM Assistant Misinterpretation]`:**
     -   **Risk:** LLM providing advice or generating code based on an incomplete or incorrect understanding of the project state or requirements.
     -   **Mitigation:** Provide clear, contextual prompts. Always use the `00_ROADMAP_OVERVIEW.md` as a starting point for broad queries. Human oversight and review of LLM-generated content is mandatory. Use these structured roadmap files as the primary source of truth.
@@ -117,15 +117,15 @@ These directives outline the guiding principles for the development process, ens
     -   Maintain high test coverage for core business logic.
 -   **Integration Testing:**
     -   Develop tests for complex system interactions (e.g., an API call that triggers a database write and a notification).
-    -   Test interactions between different modules and components as defined in `02_Core_Components_Features_And_Checklist.md`.
+    -   Test interactions between different modules and components.
 -   **Performance Testing:**
     -   Establish automated performance tests for critical paths (e.g., API response times, data processing throughput).
-    -   Define benchmarks and track performance regressions (details in `05_Technical_Details_And_Performance.md`).
+    -   Define benchmarks and track performance regressions.
     -   Utilize profiling tools to identify bottlenecks.
 -   **User Acceptance Testing (UAT) / Playtesting:**
-    -   Define clear milestones for internal and external testing (e.g., Alpha, Beta) aligned with "Key Success Milestones" in `01_Project_Concept_And_Vision.md`.
+    -   Define clear milestones for internal and external testing (e.g., Alpha, Beta) aligned with key success milestones.
     -   Implement feedback mechanisms or establish dedicated feedback channels.
-    -   Regularly analyze user feedback and incorporate it into development sprints, tracked in `04_Project_Status_And_Priorities.md`.
+    -   Regularly analyze user feedback and incorporate it into development sprints.
 
 ---
 
