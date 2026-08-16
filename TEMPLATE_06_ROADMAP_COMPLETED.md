@@ -4,11 +4,11 @@
 
 **Core Directives:**
 
-1.  **Accurate Archiving:** When a task or feature is confirmed as complete and fully integrated (usually after being moved from the "Work Completed" section in `04_Project_Status_And_Priorities.md`), add a concise summary to this log.
+1.  **Accurate Archiving:** When a task or feature is confirmed as complete and fully integrated, add a concise summary to this log.
 2.  **Detail and Clarity:** Ensure each entry clearly states what was accomplished. Include references to specific systems, features, or files if relevant (e.g., "Implemented user registration in `src/controllers/authController.js`," "Added 'Export to PDF' feature to the reporting module.").
 3.  **Chronological Order (General):** Aim to add new entries to the end of the relevant section, creating a general timeline of development.
-4.  **Consistency with Other Documents:** Ensure that items logged here as "completed" are also marked as such (e.g., "[X] Implemented") in `02_Core_Components_Features_And_Checklist.md`. This document serves as a more descriptive historical counterpart to the checklist's status flags.
-5.  **Historical Reference:** Understand that this document is primarily for looking back at what has been achieved, unlike `04_Project_Status_And_Priorities.md` which focuses on the present and immediate future.
+4.  **Consistency with Other Documents:** Ensure that items logged here as "completed" are also marked as such (e.g., "[X] Implemented") in the core components checklist. This document serves as a more descriptive historical counterpart to the checklist's status flags.
+5.  **Historical Reference:** Understand that this document is primarily for looking back at what has been achieved, unlike status documents which focus on the present and immediate future.
 
 # Completed Work Items Log
 

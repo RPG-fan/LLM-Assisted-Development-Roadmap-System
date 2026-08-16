@@ -8,12 +8,12 @@
 2.  **Dependency Analysis:** Continuously analyze and highlight component interdependencies (detailed at the end of this document). Use "Chain of Thought" or step-by-step reasoning when explaining complex dependencies to ensure clarity. This informs development order and impact assessment.
 3.  **Progress Tracking & Verification:**
     *   Assist in accurately reflecting the implementation status (e.g., "[ ]", "[-] In Progress", "[X] Implemented") of all checklist items.
-    *   Cross-reference with "Work Completed" in `04_Project_Status_And_Priorities.md` to ensure consistency.
+    *   Cross-reference with completed work to ensure consistency.
 4.  **Feature Elaboration & Decomposition:**
     *   When new features are conceptualized or existing ones need expansion, assist in breaking them down into granular, actionable sub-tasks suitable for this checklist.
-    *   Ensure new feature details align with the `01_Project_Concept_And_Vision.md`.
-5.  **Integration & Gap Identification:** Proactively identify potential integration challenges between components or gaps where features might be missing to fulfill the vision from `01_Project_Concept_And_Vision.md`.
-6.  **Technical Feasibility Awareness:** While focusing on "what," maintain a general awareness of "how" by cross-referencing with `05_Technical_Details_And_Performance.md` for features with significant technical or performance considerations.
+    *   Ensure new feature details align with the project concept and vision.
+5.  **Integration & Gap Identification:** Proactively identify potential integration challenges between components or gaps where features might be missing to fulfill the core vision.
+6.  **Technical Feasibility Awareness:** While focusing on "what," maintain a general awareness of "how" by cross-referencing with technical details for features with significant technical or performance considerations.
 
 # Core Components Checklist
 
@@ -79,7 +79,7 @@
         *   [ ] Redux/Vuex/Zustand Store Setup
         *   [ ] API Service for Data Fetching
 
-*(... continue for all high-level components defined in `01_Project_Concept_And_Vision.md` ...)*
+*(... continue for all high-level components defined ...)*
 
 ---
 

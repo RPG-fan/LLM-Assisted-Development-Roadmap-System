@@ -9,14 +9,14 @@
     *   Understand that this document reflects the *current, active state* of development.
 2.  **Proactive Issue Management:**
     *   Methodically track items in the "Known Issues" list. When new issues are logged, assist in analyzing their impact and potential priority.
-    *   Cross-reference issues with affected components in `02_Core_Components_Features_And_Checklist.md` and suggest when an issue might block items in "Next items to work on."
+    *   Cross-reference issues with affected components and suggest when an issue might block items in "Next items to work on."
 3.  **Facilitate Agile Prioritization:**
-    *   Prioritize tasks from the "Next items to work on" list. To do this, synthesize information regarding dependencies, urgency of issues, and strategic importance (from `01_Project_Concept_And_Vision.md` and "Current Plans" in this doc).
+    *   Prioritize tasks from the "Next items to work on" list. To do this, synthesize information regarding dependencies, urgency of issues, and strategic importance.
 4.  **Progress Reporting & Checklist Synchronization:**
     *   Generate concise summaries of "Work Completed" to reflect progress.
-    *   Based on "Work Completed," update the status of corresponding features in `02_Core_Components_Features_And_Checklist.md`.
+    *   Based on "Work Completed," update the status of corresponding features in the components checklist.
 5.  **Future Item Curation:**
-    *   Assist in managing the "Future Items" list, ensuring it captures high-level ideas not yet ready for the detailed checklist in `02_Core_Components_Features_And_Checklist.md`.
+    *   Assist in managing the "Future Items" list, ensuring it captures high-level ideas not yet ready for the detailed checklist.
 
 # Current Plans
 
@@ -43,7 +43,7 @@
 
 # Known Issues
 
-*(List of identified bugs, incomplete features, or problems needing attention. Should be specific and actionable where possible. Reference relevant components in `02_Core_Components_Features_And_Checklist.md`.)*
+*(List of identified bugs, incomplete features, or problems needing attention. Should be specific and actionable where possible. Reference relevant components.)*
 
 **Critical:**
 - **`[Issue Category, e.g., Security]`:** `[Brief but specific description of the issue. E.g., "User API keys are currently stored in plain text in the database."]`
@@ -62,7 +62,7 @@
 
 # Future Items
 
-*(High-level concepts, major features, or content packs planned for much later, post 1.0, or ideas not yet detailed enough for `02_Core_Components_Features_And_Checklist.md`.)*
+*(High-level concepts, major features, or content packs planned for much later, post 1.0, or ideas not yet detailed enough for the main checklist.)*
 
 -   **`[Major Feature X, e.g., Full Mobile Application]`**
 -   **`[Integration Y, e.g., Slack/Teams Integration for Notifications]`**
@@ -74,7 +74,7 @@
 
 # Work Completed (Recent)
 
-*(Summary of recently completed tasks. Move items from the "Next items to work on" list here upon completion. Items from here are typically moved to `06_ROADMAP_COMPLETED.md` at the end of a sprint/cycle.)*
+*(Summary of recently completed tasks. Move items from the "Next items to work on" list here upon completion. Items from here are typically moved to the completed roadmap at the end of a sprint/cycle.)*
 
 - **`[Completed Task Name, e.g., Setup Project Boilerplate]`:** `[Brief summary of what was done. E.g., "Initialized Node.js backend and React frontend projects with basic folder structures, linting, and dependencies."]`
 

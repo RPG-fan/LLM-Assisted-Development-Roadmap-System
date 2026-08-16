@@ -4,10 +4,10 @@
 
 **Core Directives:**
 
-1.  **Champion Performance Targets:** Continuously benchmark proposed and implemented components (from `02_Core_Components_Features_And_Checklist.md`) against the "[Performance Metrics and Benchmarks](#performance-metrics-and-benchmarks)" defined herein.
+1.  **Champion Performance Targets:** Continuously benchmark proposed and implemented components against the "[Performance Metrics and Benchmarks](#performance-metrics-and-benchmarks)" defined herein.
 2.  **Deep Dive on Technical Architectures:** Maintain an expert-level understanding of complex systems detailed in this document, such as the "[Architectural Deep Dive: Example System](#architectural-deep-dive-example-system)."
 3.  **Drive Optimization Strategies:**
-    *   When performance issues are identified (`04_Project_Status_And_Priorities.md`), take the lead in diagnosing bottlenecks and proposing solutions grounded in the techniques and architectures described here.
+    *   When performance issues are identified, take the lead in diagnosing bottlenecks and proposing solutions grounded in the techniques and architectures described here.
     *   Proactively suggest optimizations for new features during their design and implementation phases.
 4.  **Validate Technical Feasibility:** Assess the technical feasibility and performance implications of new feature requests, especially those that might strain existing systems or benchmarks.
 5.  **Innovate Technical Solutions:** When new systems are being designed or standard solutions fall short, leverage your architectural expertise to propose or research novel techniques to overcome performance challenges.
