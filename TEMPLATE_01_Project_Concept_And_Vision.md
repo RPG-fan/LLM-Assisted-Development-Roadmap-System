@@ -23,7 +23,6 @@ Your implementation should include the following core components, which form the
 *   **`[Core Component 3, e.g., Frontend Dashboard & UI]`:** `[A brief, one-sentence description of its purpose.]`
 *   **`[Core Component 4, e.g., Reporting & Export Module]`:** `[A brief, one-sentence description of its purpose.]`
 *   **`[Core Component 5, e.g., API for Third-Party Integration]`:** `[A brief, one-sentence description of its purpose.]`
-*   *(...add as many core components as needed.)*
 
 # Key Success Milestones
 

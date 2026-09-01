@@ -40,8 +40,8 @@ Before you begin coding any significant feature or component, use the scratchpad
 
 **Implementation Strategy**
 - Development phases and milestones
-- Risk assessment and mitigation strategies (refer to "Risk Assessment" section below)
-- Testing approach and validation criteria (refer to "Testing Strategy" section below)
+- Risk assessment and mitigation strategies
+- Testing approach and validation criteria
 - Rollback plan if issues arise
 
 **File/Module Impact Assessment**
@@ -82,7 +82,7 @@ Before you begin coding any significant feature or component, use the scratchpad
 These directives outline the guiding principles for the development process, ensuring code quality, maintainability, and a structured approach.
 
 -   **Modular Design & Separation of Concerns**: Structure the code with clear separation of concerns, using appropriate design patterns. This ensures maintainability, testability, and flexibility for future expansions.
--   **Comprehensive Commenting & Documentation**: All new and modified systems should include comprehensive commenting. Detailed design documents and API references are needed for complex systems to ensure clarity and ease of understanding for all team members. *(This set of roadmap files is the starting point for such documentation).*
+-   **Comprehensive Commenting & Documentation**: All new and modified systems should include comprehensive commenting. Detailed design documents and API references are needed for complex systems to ensure clarity and ease of understanding for all team members.
 -   **Incremental Development & Thorough Testing**: Implement the project incrementally, starting with core foundational components, then progressively adding more complex systems in order of dependency. Each component must be thoroughly tested before moving to the next to ensure stability.
 -   **RECORD ALL PROGRESS AND PLANS IN THE APPROPRIATE ROADMAP FILES.**
 -   **Initial Development Strategy**: Begin with the foundational systems (e.g., database schema, auth system), then implement core business logic, followed by the user interface. Ensure each layer is tested before moving to the next.
