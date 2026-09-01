@@ -37,13 +37,7 @@
 
 ---
 
-*(This "Next Items" list will evolve as tasks are completed and new priorities emerge from testing or feature planning. If this list is empty, it indicates a need to pull from a broader backlog or re-evaluate the project phase.)*
-
----
-
 # Known Issues
-
-*(List of identified bugs, incomplete features, or problems needing attention. Should be specific and actionable where possible. Reference relevant components.)*
 
 **Critical:**
 - **`[Issue Category, e.g., Security]`:** `[Brief but specific description of the issue. E.g., "User API keys are currently stored in plain text in the database."]`
@@ -62,8 +56,6 @@
 
 # Future Items
 
-*(High-level concepts, major features, or content packs planned for much later, post 1.0, or ideas not yet detailed enough for the main checklist.)*
-
 -   **`[Major Feature X, e.g., Full Mobile Application]`**
 -   **`[Integration Y, e.g., Slack/Teams Integration for Notifications]`**
 -   **`[Advanced Feature Z, e.g., Machine Learning-Based Trend Prediction]`**
@@ -73,8 +65,6 @@
 ---
 
 # Work Completed (Recent)
-
-*(Summary of recently completed tasks. Move items from the "Next items to work on" list here upon completion. Items from here are typically moved to the completed roadmap at the end of a sprint/cycle.)*
 
 - **`[Completed Task Name, e.g., Setup Project Boilerplate]`:** `[Brief summary of what was done. E.g., "Initialized Node.js backend and React frontend projects with basic folder structures, linting, and dependencies."]`
 
