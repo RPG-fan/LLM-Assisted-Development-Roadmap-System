@@ -9,9 +9,9 @@
     *   Actively use the "Development Planning Scratchpad" when new features are being planned or sprints are defined.
     *   Ensure all scratchpad sections (scope, architecture, risks, testing) are considered.
 3.  **Proactive Risk Management:**
-    *   Continuously reference the "[Risk Assessment and Mitigation](#risk-assessment-and-mitigation)" section. When new features are proposed or issues arise, prompt for consideration of potential risks and ensure mitigation strategies are discussed and documented.
+    *   When new features are proposed or issues arise, prompt for consideration of potential risks and ensure mitigation strategies are discussed and documented.
 4.  **Guide Comprehensive Testing:**
-    *   Refer to the "[Testing Strategy Details](#testing-strategy-details)" and "[Content/Data Pipeline](#contentdata-pipeline)" to ensure all development includes plans for thorough validation, unit tests, integration tests, and user acceptance testing.
+    *   Ensure all development includes plans for thorough validation, unit tests, integration tests, and user acceptance testing.
     *   Advocate for automated testing where beneficial.
 5.  **Promote Modularity and Maintainability:** Emphasize modular design, clear separation of concerns, and appropriate use of design patterns during technical discussions to ensure maintainability and scalability.
 6.  **Promote Documentation Excellence:** Reinforce the importance of comprehensive commenting within code and detailed external documentation for complex systems (these roadmap files being a starting point).
@@ -40,8 +40,8 @@ Before you begin coding any significant feature or component, use the scratchpad
 
 **Implementation Strategy**
 - Development phases and milestones
-- Risk assessment and mitigation strategies (refer to "Risk Assessment" section below)
-- Testing approach and validation criteria (refer to "Testing Strategy" section below)
+- Risk assessment and mitigation strategies
+- Testing approach and validation criteria
 - Rollback plan if issues arise
 
 **File/Module Impact Assessment**
@@ -82,7 +82,7 @@ Before you begin coding any significant feature or component, use the scratchpad
 These directives outline the guiding principles for the development process, ensuring code quality, maintainability, and a structured approach.
 
 -   **Modular Design & Separation of Concerns**: Structure the code with clear separation of concerns, using appropriate design patterns. This ensures maintainability, testability, and flexibility for future expansions.
--   **Comprehensive Commenting & Documentation**: All new and modified systems should include comprehensive commenting. Detailed design documents and API references are needed for complex systems to ensure clarity and ease of understanding for all team members. *(This set of roadmap files is the starting point for such documentation).*
+-   **Comprehensive Commenting & Documentation**: All new and modified systems should include comprehensive commenting. Detailed design documents and API references are needed for complex systems to ensure clarity and ease of understanding for all team members.
 -   **Incremental Development & Thorough Testing**: Implement the project incrementally, starting with core foundational components, then progressively adding more complex systems in order of dependency. Each component must be thoroughly tested before moving to the next to ensure stability.
 -   **RECORD ALL PROGRESS AND PLANS IN THE APPROPRIATE ROADMAP FILES.**
 -   **Initial Development Strategy**: Begin with the foundational systems (e.g., database schema, auth system), then implement core business logic, followed by the user interface. Ensure each layer is tested before moving to the next.
@@ -105,7 +105,7 @@ These directives outline the guiding principles for the development process, ens
     -   **Mitigation:** `[Describe mitigation strategy, e.g., Adhere to prioritized features. Evaluate new feature requests against core concept and vision and overall project timelines.]`
 -   **`[Project Risk 3, e.g., LLM Assistant Misinterpretation]`:**
     -   **Risk:** LLM providing advice or generating code based on an incomplete or incorrect understanding of the project state or requirements.
-    -   **Mitigation:** Provide clear, contextual prompts. Always use the `00_ROADMAP_OVERVIEW.md` as a starting point for broad queries. Human oversight and review of LLM-generated content is mandatory. Use these structured roadmap files as the primary source of truth.
+    -   **Mitigation:** Provide clear, contextual prompts. Human oversight and review of LLM-generated content is mandatory.
 
 ---
 
