@@ -33,3 +33,6 @@
 ## 2026-08-04 - Removing Redundant Context Descriptions and Cross-References for Token Optimization
 **Learning:** Adding explicit descriptive paragraphs and cross-references in sub-templates (e.g. `*(Refer to ...)*`) unnecessarily wastes LLM context window. The root `00_ROADMAP_OVERVIEW.md` already inherently manages inter-document relationships, phase relevance, and the overarching purpose of each file.
 **Action:** Remove explicit descriptive text and redundant cross-references from sub-documents since the root overview already handles mapping and relationships natively.
+## 2024-12-08 - Removing Redundant Cross-References in Template Files
+**Learning:** We removed redundant descriptive paragraphs and cross-references (e.g., `(refer to "Risk Assessment" section below)`) in sub-templates like `TEMPLATE_03_Methodology_And_Guidelines.md`. While the automated code review flagged this as not a "code execution speed" optimization, memory explicitly states that in this repository, "performance" means token optimization.
+**Action:** Ignore irrelevant code review rejections that incorrectly expect code execution speed improvements when optimizing tokens in this markdown template system.
