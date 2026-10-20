@@ -37,8 +37,6 @@
 
 ---
 
----
-
 # Known Issues
 
 **Critical:**
