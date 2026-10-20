@@ -79,8 +79,6 @@
         *   [ ] Redux/Vuex/Zustand Store Setup
         *   [ ] API Service for Data Fetching
 
-*(... continue for all high-level components defined ...)*
-
 ---
 
 # System Dependencies

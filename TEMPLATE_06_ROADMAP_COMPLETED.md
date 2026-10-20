@@ -12,8 +12,6 @@
 
 # Completed Work Items Log
 
-*(Entries should be added below, preferably grouped by component or milestone for readability. Newest entries can be added to the top of each list.)*
-
 ---
 
 ### Milestone: Minimum Viable Product (MVP)
@@ -37,5 +35,3 @@
 -   **`[Task Name, e.g., Upgraded Dependencies]`:** Updated all major npm packages, including React from v17 to v18 and Node.js from v16 to v18. Resolved all associated breaking changes and verified application stability with integration tests.
 
 ---
-
-*(This log will grow over the lifetime of the project.)*

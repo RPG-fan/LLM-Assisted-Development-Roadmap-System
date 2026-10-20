@@ -11,7 +11,7 @@
 3.  **Proactive Risk Management:**
     *   Continuously reference the "[Risk Assessment and Mitigation](#risk-assessment-and-mitigation)" section. When new features are proposed or issues arise, prompt for consideration of potential risks and ensure mitigation strategies are discussed and documented.
 4.  **Guide Comprehensive Testing:**
-    *   Refer to the "[Testing Strategy Details](#testing-strategy-details)" and "[Content/Data Pipeline](#contentdata-pipeline)" to ensure all development includes plans for thorough validation, unit tests, integration tests, and user acceptance testing.
+    *   Use the "[Testing Strategy Details](#testing-strategy-details)" and "[Content/Data Pipeline](#contentdata-pipeline)" to ensure all development includes plans for thorough validation, unit tests, integration tests, and user acceptance testing.
     *   Advocate for automated testing where beneficial.
 5.  **Promote Modularity and Maintainability:** Emphasize modular design, clear separation of concerns, and appropriate use of design patterns during technical discussions to ensure maintainability and scalability.
 6.  **Promote Documentation Excellence:** Reinforce the importance of comprehensive commenting within code and detailed external documentation for complex systems (these roadmap files being a starting point).
@@ -40,8 +40,8 @@ Before you begin coding any significant feature or component, use the scratchpad
 
 **Implementation Strategy**
 - Development phases and milestones
-- Risk assessment and mitigation strategies (refer to "Risk Assessment" section below)
-- Testing approach and validation criteria (refer to "Testing Strategy" section below)
+- Risk assessment and mitigation strategies
+- Testing approach and validation criteria
 - Rollback plan if issues arise
 
 **File/Module Impact Assessment**
